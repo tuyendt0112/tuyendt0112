@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-As a university student majoring in information technology, I initially had a strong interest in this field. However, during my second year, I found myself losing passion and becoming bored. This made it difficult for me to excel in assigned projects, resulting in less than satisfactory outcomes. After applying to a company in my fourth year, I was surprised to learn that my skills did not meet their requirements. Determined not to accept defeat, I made the decision to reignite my passion and continue my studies. My ultimate goal is to become a skilled web developer, and this is just the first step in my journey.
+As a university student majoring in information technology, my ultimate goal is to become a skilled web developer.
 
 *   🌍  I'm based in Viet Nam 
 *   ✉️  You can contact me at [dangthanhtuyen0112@gmail.com](mailto:dangthanhtuyen0112@gmail.com)

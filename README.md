@@ -90,14 +90,6 @@ Here are a few exciting projects I've built and engineered:
   - **Links:** [📦 npm package](https://www.npmjs.com/package/spm-skills-cli) 
 </details>
 
----
-
-## 📊 Git Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jezztom&show_icons=true&theme=tokyonight" alt="Jezztom's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jezztom&theme=tokyonight" alt="Jezztom's Streak Stats" width="48%" />
-</p>
 
 ---
 

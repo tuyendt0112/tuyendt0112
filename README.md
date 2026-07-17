@@ -11,11 +11,11 @@ $ npx jezztom --status
 ```yaml
 ---
 status:
-  current_role: "IT Developer"
-  location: "Ho Chi Minh, Viet Nam 🇻🇳"
+  current_role: "IT Student & Aspiring Fullstack Web Developer"
+  location: "Da Nang, Viet Nam 🇻🇳"
   ambition: "Create powerful developer tools, API engineering, & positive societal impact"
-  learning: ["Website", "Mobile App", "AI"]
-  open_to: "Collaborating on everything"
+  learning: ["React.js", "Node.js", "Redux", "API Engineering", "Docker"]
+  open_to: "Collaborating on modern Web Applications & open source tools"
   portfolio: "https://jezdev.vercel.app/"
 ---
 ```
@@ -52,7 +52,7 @@ status:
 
 ## 🎯 Highlighted Projects
 
-Here are a few exciting projects I've built for fun:
+Here are a few exciting projects I've built and engineered:
 
 <details>
   <summary>🗂️ <b>Flashcard Local</b> — <i>Smart Offline Spaced Repetition</i></summary>
@@ -60,7 +60,7 @@ Here are a few exciting projects I've built for fun:
   - **What it is:** A local-first flashcard application designed to run smoothly on your local machine for lightning-fast memory training and spaced repetition.
   - **Tech Stack:** HTML5, CSS3, Vanilla JS / React, Web Storage.
   - **Key Feature:** Works completely offline without needing complex database integrations, syncs directly to local storage files.
-  - **Links:** [🔗 Play Live Demo]((https://flashcard-local.vercel.app/)).
+  - **Links:** [🔗 Play Live Demo](https://flashcard-local.vercel.app/) 
 </details>
 
 <details>
@@ -69,7 +69,7 @@ Here are a few exciting projects I've built for fun:
   - **What it is:** High-performance 2D retro action games built directly inside the browser using optimized game loops.
   - **Tech Stack:** HTML5 Canvas, Javascript, CSS3 animations.
   - **Key Feature:** Pixel-perfect collision detection, interactive controls, and dynamic level scaling.
-  - **Links:** [🔗 Play Live Demo](https://jezdev.vercel.app/) 
+  - **Links:** [🔗 Play Live Demo](https://cyber-survival-steel.vercel.app) 
 </details>
 
 <details>
@@ -78,7 +78,7 @@ Here are a few exciting projects I've built for fun:
   - **What it is:** A web application designed to help university students practice everyday English topics with contextual AI guidance.
   - **Tech Stack:** Javascript, HTML5, CSS3, and Google Gemini API integration.
   - **Key Feature:** Real-time conversational AI prompts.
-  - **Links:** [🔗 Play Live Demo]((https://how-i-learn-english.vercel.app/)) 
+  - **Links:** [🔗 Play Live Demo](https://how-i-learn-english.vercel.app/) 
 </details>
 
 <details>
@@ -87,8 +87,17 @@ Here are a few exciting projects I've built for fun:
   - **What it is:** A CLI tool published on npm that helps manage and customize agent skills locally and globally for AI coding assistants.
   - **Tech Stack:** Node.js, Commander.js, npm.
   - **Key Feature:** Simplifies agent environment setups, skill registries, and commands directly from the terminal.
-  - **Links:** [📦 npm package]((https://www.npmjs.com/package/spm-skills-cli))
+  - **Links:** [📦 npm package](https://www.npmjs.com/package/spm-skills-cli) 
 </details>
+
+---
+
+## 📊 Git Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jezztom&show_icons=true&theme=tokyonight" alt="Jezztom's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jezztom&theme=tokyonight" alt="Jezztom's Streak Stats" width="48%" />
+</p>
 
 ---
 
